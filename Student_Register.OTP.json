@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "65299dd6ded465904e081223"
+  },
+  "first_name": "John",
+  "last_name": "Smith",
+  "mobile": "555-123-4567",
+  "email": "john.smith@example.com",
+  "password": "securepass123",
+  "address": "123 Elm Street, Apt 4A, Cityville, CA, 98765",
+  "roll": "S001",
+  "class": "10th Grade",
+  "otp": "12345",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e081224"
+  },
+  "first_name": "Alice",
+  "last_name": "Johnson",
+  "mobile": "555-234-5678",
+  "email": "alice.johnson@example.com",
+  "password": "pass456",
+  "address": "456 Oak Avenue, Suite 7B, Townsville, NY, 54321",
+  "roll": "S002",
+  "class": "9th Grade",
+  "otp": "54321",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e081225"
+  },
+  "first_name": "David",
+  "last_name": "Wilson",
+  "mobile": "555-345-6789",
+  "email": "david.wilson@example.com",
+  "password": "pw789",
+  "address": "789 Maple Lane, Unit 12, Villagetown, TX, 12345",
+  "roll": "S003",
+  "class": "11th Grade",
+  "otp": "98765",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e081226"
+  },
+  "first_name": "Eva",
+  "last_name": "Martinez",
+  "mobile": "555-456-7890",
+  "email": "eva.martinez@example.com",
+  "password": "securepass123",
+  "address": "567 Pine Road, Apt 3C, Suburbia, CA, 98765",
+  "roll": "S004",
+  "class": "12th Grade",
+  "otp": "65432",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e081227"
+  },
+  "first_name": "George",
+  "last_name": "Adams",
+  "mobile": "555-567-8901",
+  "email": "george.adams@example.com",
+  "password": "pass456",
+  "address": "678 Cedar Street, Suite 5D, Countryside, NY, 54321",
+  "roll": "S005",
+  "class": "10th Grade",
+  "otp": "12345",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e081228"
+  },
+  "first_name": "Sophia",
+  "last_name": "Turner",
+  "mobile": "555-678-9012",
+  "email": "sophia.turner@example.com",
+  "password": "pw789",
+  "address": "890 Redwood Avenue, Unit 9A, Suburbville, TX, 12345",
+  "roll": "S006",
+  "class": "9th Grade",
+  "otp": "98765",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e081229"
+  },
+  "first_name": "Michael",
+  "last_name": "Brown",
+  "mobile": "555-789-0123",
+  "email": "michael.brown@example.com",
+  "password": "securepass123",
+  "address": "123 Birch Lane, Apt 2B, Hamletown, CA, 98765",
+  "roll": "S007",
+  "class": "11th Grade",
+  "otp": "54321",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e08122a"
+  },
+  "first_name": "Olivia",
+  "last_name": "Harris",
+  "mobile": "555-890-1234",
+  "email": "olivia.harris@example.com",
+  "password": "pass456",
+  "address": "456 Spruce Road, Suite 6C, Countrysideville, NY, 54321",
+  "roll": "S008",
+  "class": "12th Grade",
+  "otp": "98765",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e08122b"
+  },
+  "first_name": "William",
+  "last_name": "Clark",
+  "mobile": "555-901-2345",
+  "email": "william.clark@example.com",
+  "password": "pw789",
+  "address": "789 Fir Street, Unit 1D, Suburbtown, TX, 12345",
+  "roll": "S009",
+  "class": "10th Grade",
+  "otp": "12345",
+  "status": "Enrolled"
+},
+{
+  "_id": {
+    "$oid": "65299dd6ded465904e08122c"
+  },
+  "first_name": "Ava",
+  "last_name": "Young",
+  "mobile": "555-012-3456",
+  "email": "ava.young@example.com",
+  "password": "securepass123",
+  "address": "567 Cedar Avenue, Apt 8A, Townsville, CA, 98765",
+  "roll": "S010",
+  "class": "9th Grade",
+  "otp": "54321",
+  "status": "Enrolled"
+}]

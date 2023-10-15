@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "65299dc0ded465904e08120c"
+  },
+  "title": "Introduction to Mathematics",
+  "class_note": "Please review the basic concepts of algebra before the next class.",
+  "description": "This course provides an introduction to fundamental mathematical principles.",
+  "status": "Enrolled",
+  "email": "john.smith@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08120d"
+  },
+  "title": "Biology 101",
+  "class_note": "Don't forget to bring your lab materials for the upcoming experiment.",
+  "description": "An introductory course covering the basics of biology.",
+  "status": "Enrolled",
+  "email": "alice.johnson@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08120e"
+  },
+  "title": "Programming Fundamentals",
+  "class_note": "Assignment 3 is due next week. Make sure to submit it on time.",
+  "description": "Learn the fundamentals of computer programming in this course.",
+  "status": "Enrolled",
+  "email": "david.wilson@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08120f"
+  },
+  "title": "Data Analysis with Python",
+  "class_note": "We'll be covering data visualization techniques in the next lecture.",
+  "description": "Explore data analysis using Python programming language.",
+  "status": "Enrolled",
+  "email": "eva.martinez@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081210"
+  },
+  "title": "Web Development Bootcamp",
+  "class_note": "The final project presentations are scheduled for next week. Prepare accordingly.",
+  "description": "Intensive training in web development and modern technologies.",
+  "status": "Enrolled",
+  "email": "george.adams@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081211"
+  },
+  "title": "UX/UI Design Principles",
+  "class_note": "We'll be critiquing your user interface designs during the lab session.",
+  "description": "Learn the principles of user experience and user interface design.",
+  "status": "Enrolled",
+  "email": "sophia.turner@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081212"
+  },
+  "title": "Database Management",
+  "class_note": "The database schema assignment is due in two days.",
+  "description": "Study the principles of database management and SQL.",
+  "status": "Enrolled",
+  "email": "michael.brown@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081213"
+  },
+  "title": "Artificial Intelligence",
+  "class_note": "We'll be discussing neural networks in the next class.",
+  "description": "Explore the fascinating world of artificial intelligence and machine learning.",
+  "status": "Enrolled",
+  "email": "olivia.harris@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081214"
+  },
+  "title": "Network Security",
+  "class_note": "Review the latest security vulnerabilities and attack vectors for your project.",
+  "description": "Learn about securing computer networks and information systems.",
+  "status": "Enrolled",
+  "email": "william.clark@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081215"
+  },
+  "title": "Software Engineering Principles",
+  "class_note": "Project milestone 2 is due at the end of this week. Don't procrastinate.",
+  "description": "Explore the principles and best practices of software engineering.",
+  "status": "Enrolled",
+  "email": "ava.young@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081216"
+  },
+  "title": "Advanced Physics",
+  "class_note": "We'll be conducting the physics experiment on Newton's laws tomorrow.",
+  "description": "An advanced physics course covering various topics in classical and modern physics.",
+  "status": "Enrolled",
+  "email": "james.lee@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081217"
+  },
+  "title": "Chemistry Laboratory",
+  "class_note": "The lab safety guidelines must be strictly followed during experiments.",
+  "description": "An immersive chemistry lab course to perform experiments and analyze reactions.",
+  "status": "Enrolled",
+  "email": "lily.turner@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081218"
+  },
+  "title": "Machine Learning with Python",
+  "class_note": "We'll be exploring decision trees in machine learning during the next session.",
+  "description": "Dive into machine learning algorithms and applications using Python.",
+  "status": "Enrolled",
+  "email": "henry.brown@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081219"
+  },
+  "title": "Computer Graphics",
+  "class_note": "Project group discussions will take place after the lecture today.",
+  "description": "Explore the fundamentals of computer graphics and visual rendering.",
+  "status": "Enrolled",
+  "email": "olivia.garcia@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08121a"
+  },
+  "title": "Distributed Systems",
+  "class_note": "Prepare for the midterm exam covering distributed algorithms.",
+  "description": "Study the principles and challenges of building distributed systems.",
+  "status": "Enrolled",
+  "email": "jack.miller@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08121b"
+  },
+  "title": "Mobile App Development",
+  "class_note": "Our guest speaker will discuss mobile app monetization strategies tomorrow.",
+  "description": "Learn to create mobile applications for iOS and Android platforms.",
+  "status": "Enrolled",
+  "email": "emily.wilson@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08121c"
+  },
+  "title": "Robotics and Automation",
+  "class_note": "We'll be working on a robotic arm project in the robotics lab this week.",
+  "description": "Explore the field of robotics, automation, and autonomous systems.",
+  "status": "Enrolled",
+  "email": "daniel.martinez@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08121d"
+  },
+  "title": "Digital Marketing",
+  "class_note": "Please submit your digital marketing campaign proposals by Friday.",
+  "description": "Learn digital marketing strategies and techniques to promote products and services.",
+  "status": "Enrolled",
+  "email": "emma.anderson@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08121e"
+  },
+  "title": "Ethical Hacking",
+  "class_note": "We'll be discussing common hacking techniques and defenses in the next lecture.",
+  "description": "Explore the ethical and security aspects of hacking and penetration testing.",
+  "status": "Enrolled",
+  "email": "william.thomas@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e08121f"
+  },
+  "title": "Data Science for Business",
+  "class_note": "Prepare your business data analysis projects for peer review in the next class.",
+  "description": "Learn how to apply data science and analytics to real-world business problems.",
+  "status": "Enrolled",
+  "email": "sofia.roberts@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081220"
+  },
+  "title": "Cloud Computing",
+  "class_note": "Please make sure you have access to the cloud computing platform for the upcoming lab.",
+  "description": "Explore cloud computing concepts, platforms, and services.",
+  "status": "Enrolled",
+  "email": "liam.brown@example.com"
+},
+{
+  "_id": {
+    "$oid": "65299dc0ded465904e081221"
+  },
+  "title": "Cybersecurity Fundamentals",
+  "class_note": "Review the cybersecurity threats and defenses discussed in the previous lecture.",
+  "description": "Learn the fundamentals of cybersecurity, threats, and protective measures.",
+  "status": "Enrolled",
+  "email": "mia.davis@example.com"
+}]
